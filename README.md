@@ -1,2 +1,2 @@
 # restaurant-page
-webpack practice, among other things
+practice practice, among other things
