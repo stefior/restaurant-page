@@ -1,2 +1,2 @@
 # restaurant-page
-webpack practice
+webpack practice, among other things
